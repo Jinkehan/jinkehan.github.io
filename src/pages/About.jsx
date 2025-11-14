@@ -1,7 +1,7 @@
 function About() {
   return (
     <div className="page">
-      <h1>About</h1>
+      <h1>A Little About Myself</h1>
       <div style={{ marginBottom: '1.5rem', display: 'flex', gap: '1.5rem', flexWrap: 'wrap' }}>
         <a 
           href="https://www.linkedin.com/in/kehan-jin-76992427a/" 
@@ -37,16 +37,46 @@ function About() {
         </a>
       </div>
       <p>
-        Hi, I'm Kehan! I'm a Computer Science student at the University of Washington, 
-        graduating in 2027. I'm really into software development, distributed systems, and 
-        building full-stack applications. I love the challenge of creating high-performance 
-        systems that actually work well.
+        Hi, I'm Kehan! I was born in Shanghai, China, where I spent my early years. Growing up, 
+        pool became my main hobby - I spent countless hours at the table, learning the angles, 
+        the strategy, and the patience that comes with the game. There was something meditative 
+        about lining up a shot and seeing it through, and it taught me early on about focus and 
+        precision.
       </p>
       <p>
-        I spent some time as a Data Analyst Intern at DIGILOG, where I got to work on 
-        automated data migration pipelines and help with ERP system transitions. Most of 
-        my projects involve building things from scratch - like a file search engine in C/C++, 
-        or React Native apps that help students connect for activities and hobbies.
+        In 7th grade, my family moved to the Bay Area, which was a big change. It was my first 
+        time living in the United States, and everything felt new - the culture, the school system, 
+        even the way people talked. But pool was a constant, something familiar I could always 
+        return to. It helped me find my footing during those first few years of adjusting to a 
+        completely different environment.
+      </p>
+      <p>
+        When high school came around, we moved again, this time to Ann Arbor, Michigan. I kept 
+        playing pool, but I also discovered rowing and got really involved with our school's 
+        rowing team. Rowing was completely different from pool - it was about teamwork, endurance, 
+        and pushing through physical limits. Early morning practices on the water, the rhythm of 
+        the oars, the feeling of the boat moving as one unit - it became a huge part of my life. 
+        Being part of a team taught me about commitment, communication, and what it means to 
+        work toward a common goal.
+      </p>
+      <p>
+        After high school, I moved to Seattle, Washington to attend the University of Washington. 
+        The Pacific Northwest opened up a whole new world of outdoor activities for me. I started 
+        hiking, skiing, and climbing - activities that I'd never really had access to before. 
+        The mountains here are incredible, and I found myself drawn to spending time outside. 
+        I also picked up photography as a way to document these adventures, and it quickly 
+        became another passion. Each new place I've lived has shaped me in different ways, and 
+        Seattle has definitely pushed me toward more outdoor pursuits and a deeper appreciation 
+        for nature.
+      </p>
+      <p>
+        Now I'm studying Computer Science at UW, graduating in 2027. I'm really into software 
+        development, distributed systems, and building full-stack applications. I love the 
+        challenge of creating high-performance systems that actually work well. I've also worked 
+        as a Data Analyst Intern at DIGILOG, where I got to work on automated data migration 
+        pipelines and help with ERP system transitions. Most of my projects involve building 
+        things from scratch - like a file search engine in C/C++, or React Native apps that 
+        help students connect for activities and hobbies.
       </p>
       <h2 style={{ marginTop: '2rem', marginBottom: '1rem', color: '#333', fontSize: '1.5rem' }}>Hobbies</h2>
       
